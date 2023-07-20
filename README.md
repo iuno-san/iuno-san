@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with [ChillCode](https://github.com/Chillcode-Official)
+<!-- - 🤝 I’m looking for help with [ChillCode](https://github.com/Chillcode-Official) -->
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+<!-- - 👨‍💻 All of my projects are available at [soon](soon) -->
 
 - 💬 Ask me about **EveryThing**
 
