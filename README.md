@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **ignacysan27@gmail.com**
 
+- 🎮 My discord nick: iuno_san
+
 - 📄 Know about my experiences [soon](soon)
 
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
@@ -29,12 +31,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iuno-san" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ignacy starczynski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacy starczynski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ignacy starczynski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ignacy starczynski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ignacy-starczynski-8030b2284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacy starczynski" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22247462/ignacy-starczynski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ignacy starczynski" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iuno-san" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ignacysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ignacysan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iuno-san" height="30" width="40" /></a>
-<a href="https://discord.gg/iuno_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iuno_san" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
