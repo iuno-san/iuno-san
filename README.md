@@ -23,7 +23,7 @@
 
 - 🎮 My discord nick: iuno_san
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Know about my experiences [--- my CV ---](https://www.chillcode.org/Cv-resume.pdf)
 
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
 </div>
