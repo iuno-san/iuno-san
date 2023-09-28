@@ -1,7 +1,5 @@
-<!-- ![MasterHead](https://www.chillcode.org/img/Others/blog-img(1).png)  ChillCode-baner -->
 <h1 align="center">Hi 👋, I'm Ignacy</h1>
 <h3 align="center">I'm passionate about creating professional web applications in ASP.NET Core MVC.</h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=iuno-san&label=Profile%20views&color=0e75b6&style=flat" alt="iuno-san" /> </p>-->
 <br>
 
 <div>
@@ -12,10 +10,6 @@
 - 🌱 I’m currently learning **ASP.NET, EF Core, React, C# and Azure**
 
 - 👯 I’m looking to collaborate on **any project**
-
-<!-- - 🤝 I’m looking for help with [ChillCode](https://github.com/Chillcode-Official) -->
-
-<!-- - 👨‍💻 All of my projects are available at [soon](soon) -->
 
 - 💬 Ask me about **EveryThing**
 
