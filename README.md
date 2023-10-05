@@ -1,5 +1,7 @@
 <!--<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iuno-san&" alt="iuno-san" /></p>-->
-
+<b align="Center"> 🕊 I'm FullStack developer and passionate about creating professional web applications in ASP.NET 🍃 </b>
+<hr>
+<br>
 <div>
   <div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>
   <!--<img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">-->
