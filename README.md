@@ -1,9 +1,11 @@
 <!--<h1 align="center">Hi 👋, I'm Ignacy</h1>
 <h3 align="center">I'm passionate about creating professional web applications in ASP.NET Core MVC.</h3>
 <br>-->
+<h3 align="center">I'm FullStack developer and passionate about creating professional web applications in ASP.NET</h1>
+<br>
 
 <div>
-  <img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">
+  <!--<img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">-->
 
 - 🍂 I’m currently working as **a freelancer on various projects**
 
