@@ -5,13 +5,9 @@
 <div>
   <img align="right" alt="Coding" width="450" src="https://lh4.googleusercontent.com/-5XeDpepgZ2s/TPxKaB8HHxI/AAAAAAAAEAc/fHvEC5Z_-1k/s640/FCPS-2010-12-05-18h35m40s39.png.jpg">
 
-- 🔭 I’m currently working on **various open source projects**
+- 🍂 I’m currently working as **a freelancer on various projects**
 
-- 🌱 I’m currently learning **ASP.NET, EF Core, React, C# and Azure**
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 💬 Ask me about **EveryThing**
+- 💻 I’m currently learning **ASP.NET, EF Core, React, C# and Azure**
 
 - 📫 How to reach me **ignacysan27@gmail.com**
 
