@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ignacy</h1>
+<!--<h1 align="center">Hi 👋, I'm Ignacy</h1>
 <h3 align="center">I'm passionate about creating professional web applications in ASP.NET Core MVC.</h3>
-<br>
+<br>-->
 
 <div>
-  <img align="right" alt="Coding" width="450" src="https://lh4.googleusercontent.com/-5XeDpepgZ2s/TPxKaB8HHxI/AAAAAAAAEAc/fHvEC5Z_-1k/s640/FCPS-2010-12-05-18h35m40s39.png.jpg">
+  <img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">
 
 - 🍂 I’m currently working as **a freelancer on various projects**
 
