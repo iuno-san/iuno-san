@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ignacysan27@gmail.com**
 
-- 🎮 My discord nick: iuno_san
+- 🎮 My discord nick: <code>iuno_san</code>
 
 - 📄 Know about my experiences [--- my CV ---](https://www.chillcode.org/Cv-resume.pdf)
 
