@@ -14,7 +14,7 @@
 
 - 🎮 My discord nick: <code>iuno_san</code>
 
-- 📄 Know about my experiences [--- my CV ---](https://www.chillcode.org/Cv-resume.pdf)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ignacy-starczynski-8030b2284/)
 
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
 </div> <br>
