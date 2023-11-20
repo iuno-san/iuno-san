@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
 </div> <br>
 
-<b>Connect with me:</b>
+<b><img width="20px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">Connect with me:</b>
 <p>
 <a href="https://dev.to/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iuno-san" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ignacy-starczynski-8030b2284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacy starczynski" height="30" width="40" /></a>
