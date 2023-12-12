@@ -27,7 +27,70 @@
 <a href="https://codesandbox.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iuno-san" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ignacysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ignacysan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iuno-san" height="30" width="40" /></a>
-</p>  
+</p>  <br>
+
+# 🍃 One of my latest codes
+```cs
+public class MyEmploController : Controller
+{
+    private readonly IMediator _mediator;
+    private readonly IMapper _mapper;
+
+    public MyEmploController(IMediator mediator, IMapper mapper)
+    {
+        _mediator = mediator;
+        _mapper = mapper;
+    }
+
+    public async Task<IActionResult> Index()
+    {
+        var myEmplos = await _mediator.Send(new GetAllMyEmploQuery());
+
+        var filteredMyEmplos = myEmplos.Where(e => e.IsEditable);
+
+        return View(filteredMyEmplos);
+    }
+
+    [Route("MyEmplo/{encodedName}/Details")]
+    public async  Task<IActionResult> Details(string encodedName)
+    {
+        var dto = await _mediator.Send(new GetMyEmploByEncodedNameQuery(encodedName));
+
+        return View(dto);
+    }
+
+    [Route("MyEmplo/{encodedName}/Edit")]
+    public async Task<IActionResult> Edit(string encodedName)
+    {
+        var dto = await _mediator.Send(new GetMyEmploByEncodedNameQuery(encodedName));
+
+        EditMyEmploCommand model = _mapper.Map<EditMyEmploCommand>(dto);
+
+        if (!dto.IsEditable)
+        {
+            return RedirectToAction("NoAccess", "Home");
+        }
+
+        return View(model);
+    }
+
+    [HttpPost]
+    [Route("MyEmplo/{encodedName}/Edit")]
+    public async Task<IActionResult> Edit(string encodedName, EditMyEmploCommand command)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View(command);
+        }
+
+        await _mediator.Send(command);
+        this.SetNotification("success", $"Your new details saved for: {command.FullName}");
+        return RedirectToAction(nameof(Index));
+    }
+}
+```
+
+
 <!--
 <p align="left">
 <a href="https://dev.to/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iuno-san" height="30" width="40" /></a>
