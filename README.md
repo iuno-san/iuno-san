@@ -30,7 +30,7 @@
 </p>  <br> -->
 
 <h1>🔥Latest Project</h1>
-<a href="https://github.com/iuno-san/MyEmplo"><img width="1000" src="https://raw.githubusercontent.com/iuno-san/MyEmplo/master/MyEmplo/wwwroot/img/site/maain-site.png" /></a>
+<a href="https://github.com/iuno-san/MyEmplo"><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/MyEmplo/master/MyEmplo/wwwroot/img/site/code-site1.png" /></a>
 
 
 
