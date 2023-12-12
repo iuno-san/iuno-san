@@ -1,6 +1,7 @@
 <!--<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iuno-san&" alt="iuno-san" /></p>-->
-<b align="Center"> 🕊 I'm FullStack developer and </b> <br>
-<b align="Center"> 🍃 passionate about creating professional web applications in ASP.NET </b>
+<h2><b align="Center"> 🕊 I'm FullStack developer and </b><br>
+  🍃 passionate about creating professional web applications in ASP.NET
+</h2>
 <hr>
 <div>
   <div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>
