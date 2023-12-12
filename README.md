@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
 </div> <br>
 
-<b><img width="20px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">Connect with me:</b>
+<!-- <b><img width="20px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">Connect with me:</b>
 <p>
 <a href="https://dev.to/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iuno-san" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ignacy-starczynski-8030b2284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacy starczynski" height="30" width="40" /></a>
@@ -27,68 +27,11 @@
 <a href="https://codesandbox.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iuno-san" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ignacysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ignacysan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iuno-san" height="30" width="40" /></a>
-</p>  <br>
+</p>  <br> -->
 
-# 🍃 One of my latest codes
-```cs
-public class MyEmploController : Controller
-{
-    private readonly IMediator _mediator;
-    private readonly IMapper _mapper;
+<h1>🔥Latest Project</h1>
+<a href="https://github.com/iuno-san/MyEmplo"><img width="1000" src="https://raw.githubusercontent.com/iuno-san/MyEmplo/master/MyEmplo/wwwroot/img/site/maain-site.png" /></a>
 
-    public MyEmploController(IMediator mediator, IMapper mapper)
-    {
-        _mediator = mediator;
-        _mapper = mapper;
-    }
-
-    public async Task<IActionResult> Index()
-    {
-        var myEmplos = await _mediator.Send(new GetAllMyEmploQuery());
-
-        var filteredMyEmplos = myEmplos.Where(e => e.IsEditable);
-
-        return View(filteredMyEmplos);
-    }
-
-    [Route("MyEmplo/{encodedName}/Details")]
-    public async  Task<IActionResult> Details(string encodedName)
-    {
-        var dto = await _mediator.Send(new GetMyEmploByEncodedNameQuery(encodedName));
-
-        return View(dto);
-    }
-
-    [Route("MyEmplo/{encodedName}/Edit")]
-    public async Task<IActionResult> Edit(string encodedName)
-    {
-        var dto = await _mediator.Send(new GetMyEmploByEncodedNameQuery(encodedName));
-
-        EditMyEmploCommand model = _mapper.Map<EditMyEmploCommand>(dto);
-
-        if (!dto.IsEditable)
-        {
-            return RedirectToAction("NoAccess", "Home");
-        }
-
-        return View(model);
-    }
-
-    [HttpPost]
-    [Route("MyEmplo/{encodedName}/Edit")]
-    public async Task<IActionResult> Edit(string encodedName, EditMyEmploCommand command)
-    {
-        if (!ModelState.IsValid)
-        {
-            return View(command);
-        }
-
-        await _mediator.Send(command);
-        this.SetNotification("success", $"Your new details saved for: {command.FullName}");
-        return RedirectToAction(nameof(Index));
-    }
-}
-```
 
 
 <!--
