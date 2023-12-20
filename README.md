@@ -4,7 +4,7 @@
 </h3>
 <hr>
 <div>
-  <div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>
+  <!--<div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>-->
   <!--<img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">-->
 
 - 🔥 I’m currently working as **a freelancer on various projects**
