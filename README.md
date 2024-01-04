@@ -1,5 +1,5 @@
 <!--<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iuno-san&" alt="iuno-san" /></p>-->
-<h1><b align="Center"> 🍃 Portfolio - https://ignacystarczynski.com/
+<h1><b align="Center"> 🍃 Portfolio - https://ignacystarczynski.com
 </h1>
 <hr>
 <div>
