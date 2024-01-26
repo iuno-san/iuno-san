@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iuno-san" height="30" width="40" /></a>
 </p>  <br> -->
 
-<h2>🍂 Latest Project | MyEmplo </h1>
+<h2>🍂 Latest Project | GoodPatient </h1>
 <a href="https://github.com/iuno-san/MyEmplo"><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/MyEmplo/master/MyEmplo/wwwroot/img/site/codee-site.png" /></a>
 
 
