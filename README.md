@@ -26,7 +26,7 @@
 </p>  <br> -->
 
 <h2>🍂 Latest Project | GoodPatient </h1>
-<a href="https://github.com/iuno-san/MyEmplo"><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/MyEmplo/master/MyEmplo/wwwroot/img/site/codee-site.png" /></a>
+<a href="https://goodpatient.azurewebsites.net/"><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/GoodPatient/master/GoodPatient.MVC/wwwroot/img/preview/GoodPatient_Code.png" /></a>
 
 
 
