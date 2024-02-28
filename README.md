@@ -12,7 +12,7 @@
 
 - 🎮 My discord nick: <code>iuno_san</code>
 
-- ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost two years now**
+- ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost three years now**
 </div> <br>
 
 <!-- <b><img width="20px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">Connect with me:</b>
