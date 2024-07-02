@@ -6,7 +6,7 @@
   <!--<div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>-->
   <!--<img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">-->
 
-- 🔥 I’m currently learning **ASP.NET, EF Core, React, C# and Azure**
+- 🔥 I’m currently learning **ASP.NET, EF Core, C#, React and TypeScript**
 
 - 📫 How to reach me **ignacysan27@gmail.com**
 
