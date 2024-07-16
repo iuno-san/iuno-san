@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **ignacysan27@gmail.com**
 
-- 🎮 My discord nick: <code>iuno_san</code>
-
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost three years now**
 </div> <br>
 
