@@ -8,7 +8,7 @@
 
 - 🔥 I’m currently learning **ASP.NET, EF Core, C#, React and TypeScript**
 
-- 📫 How to reach me **ignacysan27@gmail.com**
+<!-- - 📫 How to reach me **ignacysan27@gmail.com**-->
 
 - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost three years now**
 </div> <br>
