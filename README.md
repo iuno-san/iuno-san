@@ -23,8 +23,8 @@
 <a href="https://www.leetcode.com/iuno-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iuno-san" height="30" width="40" /></a>
 </p>  <br> -->
 
-<h2>🍂 Latest Project | GoodPatient </h1>
-<a href=""><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/GoodPatient/master/GoodPatient.MVC/wwwroot/img/preview/GoodPatient_Code.png" /></a>
+<!-- <h2>🍂 Latest Project | GoodPatient </h1>
+<a href=""><img width="1000"  src="https://raw.githubusercontent.com/iuno-san/GoodPatient/master/GoodPatient.MVC/wwwroot/img/preview/GoodPatient_Code.png" /></a> -->
 
 
 
