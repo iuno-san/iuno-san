@@ -6,11 +6,11 @@
   <!--<div><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iuno-san&show_icons=true&locale=en&layout=compact" alt="iuno-san" /></p></div>-->
   <!--<img align="right" width="400" src="https://raw.githubusercontent.com/iuno-san/Beet-Knight/main/fuji-mountain-kawaguchiko-lake-sunset-autumn-seasons-fuji-mountain-yamanachi-japan_335224-1.jpg">-->
 
-- 🔥 I’m currently learning **ASP.NET, EF Core, C#, React and TypeScript**
+<!-- 🔥 I’m currently learning **ASP.NET, EF Core, C#, React and TypeScript** -->
 
 <!-- - 📫 How to reach me **ignacysan27@gmail.com**-->
 
-- ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost three years now**
+<!-- - ⚡ Fun fact **I've been taking cold showers in the morning and evening for almost three years now** -->
 </div> <br>
 
 <!-- <b><img width="20px" src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966">Connect with me:</b>
